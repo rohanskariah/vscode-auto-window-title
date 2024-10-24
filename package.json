@@ -2,7 +2,13 @@
   "name": "auto-window-title",
   "displayName": "Auto Window Title",
   "description": "When opening a new workspace, allows you to set the window title automatically and persists between sessions.",
-  "author": {"name": "Rohan Skariah"},
+  "author": {
+    "name": "Rohan Skariah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohanskariah/vscode-auto-window-title.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.2"
